@@ -1,0 +1,32 @@
+commit
+a2170fd
+style.css
+@@ -0,0 +1,29 @@
+body{
+    font: arial;
+    text-align: center;
+    
+}
+header{
+     background-color: gray;
+}
+
+nav{
+    text-align: left;
+    text-decoration: none ;
+    text-align: right;
+    inline
+}
+h1{
+    text-align: center;
+}
+img{
+    flex: auto;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    justify-content: center;
+}
+footer{
+    background-color: gray;
+    text-align: center;
